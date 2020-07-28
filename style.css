@@ -1,1 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 
+#ck_btn{
+    text-decoration:none;
+    border: 1px solid #cccccc;
+    background-color: #ffff00;
+    padding:5px 8px;
+    margin:20px;
+}
